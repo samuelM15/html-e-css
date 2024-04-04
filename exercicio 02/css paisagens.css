@@ -1,0 +1,26 @@
+div{
+    background-color: aquamarine;
+    width: 1100px;
+    height: 600px;
+}
+li{
+    background-color: purple;
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+    list-style-type: none;
+    display: inline-block;
+}
+ul li img{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    transition: 0.8s;
+    box-shadow: 10px 20px 20px black;
+}
+ul li img:hover{
+    width: 330px;
+    height: 230px;
+    position: relative;
+}

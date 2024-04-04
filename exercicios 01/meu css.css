@@ -1,0 +1,29 @@
+div{
+    background-color: blueviolet;
+    width: 700px;
+    height: 90px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+ul{ 
+    list-style-type: none;
+    background-color: white;
+    width: 80px;
+    margin-bottom: 10px;
+    float: left;
+}
+li{
+background-color: antiquewhite;
+width: 80px;
+margin-top: 10px;
+}
+
+#texto{
+    background-color: antiquewhite;
+    width: max-content;
+    height: max-content;
+    float: right;
+    margin-top: 16px;
+  
+}

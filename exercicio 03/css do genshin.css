@@ -1,0 +1,99 @@
+header{
+    background-color: lightsalmon;
+    border-radius: 20px;
+    float: left;
+    width: 300px;
+    height: 100px;
+}
+img{
+    height: 100px;
+    left: 10px;
+    position: relative;
+}
+#nav1{
+    background-color: lightsalmon;
+    float:right;
+    border-radius: 20px;
+    width: 1020px;
+    height: 100px;
+}
+.li1{
+    width: 200px;
+    height: 60px;
+    list-style-type: none;
+    background-color: lightsalmon;
+    border-right: 3px black solid;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    padding-top: 40px;
+    bottom: 16px;
+    left:35px;
+    font-size: 20px;
+}
+main{
+    background-color: lightsalmon;
+    width: 1010px;
+    height: 1050px;
+    position: relative;
+    top: 120px;
+    border-radius: 20px;
+}
+.secao{
+    width: 700px;
+    height: 150px;
+    background-color: chocolate;
+    margin-top: 60px;
+    position: relative;
+    text-align: center;
+    bottom: 130px;
+    left: 20px;
+    border-radius: 20px;
+    float: left;
+}
+.listi{
+    background-color: lightsalmon;
+    height: 150px;
+    width: 250px;
+    margin-top: 60px;
+    bottom: 130px;
+    border-radius: 20px;
+    display: inline-block;
+    position: relative;
+    list-style-type:none;
+    margin-left: 30px;
+}
+#ul1 .listi .imagem{
+    height: 150px;
+    width: 250px;
+    border-radius: 20px;
+}
+#propaganda1{
+    background-color: chocolate;
+    width: 310px;
+    height: 350px;
+    bottom: 930px;
+    border-radius: 20px;
+    position: relative;
+    float: right;
+}
+#propaganda2{
+    background-color: chocolate;
+    width: 310px;
+    height: 320px;
+    bottom: 570px;
+    left:310px;
+    border-radius: 20px;
+    position: relative;
+    float: right;
+}
+#propaganda3{
+   background-color: chocolate;
+   width: 310px;
+   height: 360px;
+   float: right;
+   position: relative;
+   bottom: 590px;
+   clear: both;
+   border-radius: 20px;
+}

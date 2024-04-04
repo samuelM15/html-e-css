@@ -1,0 +1,24 @@
+#titulo{
+    background-color: chartreuse;
+    width: 700px;
+    height: 80px;
+    text-align: center;
+}
+#fundo{
+    background-color: aquamarine;
+    width: 700px;
+    height: 900px;
+    text-align: center;
+}
+#imagem{
+    width: 600px;
+    height: 400px;
+}
+li{
+    background-color: chartreuse;
+    width: 200px;
+    height: 30px;
+    list-style-type: none;
+    margin: 10px;
+    float: left;
+}
