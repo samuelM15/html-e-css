@@ -1,0 +1,222 @@
+main{
+    width: 100%;
+    height: 400vh;
+}
+#header1{
+    background-color:rgb(197, 218, 246);
+    width: 20%;
+    height: 120px;
+    float: left;
+}
+#header2{
+    background-color:rgb(197, 218, 246);
+    width: 80%;
+    height: 120px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    float: right;
+}
+#logo{
+    position: relative;
+    width: 180px;
+    height: 180px;
+    bottom: 30px;
+}
+.li1{
+    background-color: rgb(197, 218, 246);
+    font-family: Arial, Helvetica, sans-serif;
+    color: orangered;
+    font-size: 40px;
+    width:23.3%;
+    height:120px ;
+    padding-top: 25px;
+    text-align: center;
+}
+#section1{
+    background-color: black;
+    width: 100%;
+    height: 850px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+#banner{
+    width: 70%;
+    height: 850px;
+}
+#textbanner{
+    background-color:white;
+    width: 30%;
+    height: 850px ;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#h1_banner{
+    color: rgb(55, 55, 245);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#buttom{
+    font-size: 25px;
+    background-color: orangered;
+    width:40% ;
+    height: 45px;
+    padding-top: 10px;
+    border-radius: 40px;
+    position: relative;
+    left: 18vh;
+}
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 25px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+#section2{
+    text-align: center;
+    background-color: rgb(197, 218, 246);
+    width: 100%;
+    height: 850px;
+    position: relative;
+    bottom: 5vh;
+}
+#planos{
+    color: orangered; 
+    position: relative;
+    top: 6vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.li2{
+    display: inline-block;
+    background:rgb(255, 108, 55);
+    color:rgb(239, 150, 33);
+    margin-top: 12vh;
+    margin-left: 4vh;
+    text-align: center;
+    width: 30%;
+    height: 450px;
+    border-radius: 20px;
+}
+.title{
+    padding-top: 40px;
+    background-color: white;
+    width: 100%;
+    height: 7vh;
+    position: relative;
+    bottom: 40px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+#section3{
+    background-color: black;
+    width: 100%;
+    height: 850px;
+    position: relative;
+    bottom: 5vh;
+}
+#text{
+    background-color: white;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#borda{
+    border: 2px blue solid ;
+    width: 70%;
+    height: 79vh;
+    text-align: center;
+}
+#img{
+    width: 50%;
+    height: 100%;   
+    float: right;
+}
+#mercha{
+   font-size: 25px;
+   color: rgb(55, 55, 245);
+   padding-left: 20px;
+   padding-right: 20px;
+}
+#section4{
+    background-color: black;
+    width: 100%;
+    height: 850px;
+    display: flex;
+    flex-flow: row nowrap;
+}
+#caixa1{
+    background-color: rgb(197, 218, 246);
+    width: 50%;
+    height: 850px;
+    text-align: center;
+}
+#caixa2{
+    background-color:rgb(197, 218, 246);
+    width: 50%;
+    height: 850px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.comentarios{
+    background-color: white;
+    width: 50vh;
+    height: 11vh;
+    position: relative;
+    margin-top: 20px;
+    top: 20vh;
+    border-radius: 20px;
+}
+.foto{
+    background-color: black;
+    width: 8vh;
+    height: 8vh;
+    border-radius: 40px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+#texto{
+    width: 80vh;
+    height: 50vh;
+    padding-top: 20vh;
+    position: relative;
+}
+footer{
+    background-color:white;
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.icones{
+    width: 30vh;
+    height: 6vh;
+    position: relative;
+    margin-top: 5vh;
+    border-radius: 45px;
+    float: right;
+}
+.img2{
+    width: 6vh;
+    height: 6vh;
+    float: left;
+    border-radius: 20px;
+}
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    font-weight: lighter;
+}
