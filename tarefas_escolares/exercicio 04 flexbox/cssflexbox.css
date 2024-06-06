@@ -1,0 +1,22 @@
+#container{
+    background-color: blueviolet;
+    width: 100%;
+    height: 500px;
+    display: inline-flex;
+    flex-direction: row; /* row-reverse/ colunms/ colunms-reverse */
+    flex-wrap: wrap; /* nowrap/ wrap/ wrap-reverse*/
+    /*flex-flow: row wrap/ row nowrap/ colunm wrap/ colunm nowrap;*/
+
+    justify-content: space-evenly; /* flex-start/ flex-end/ space-evenly/ space-around/ space-between*/
+
+    /*align-items: stretch; /* flex-start/ start/ sel-start/ flex-end/ center/ stretch/ baseline*/
+    /*align-content: center;/* flex-star/ flex-end/ stretch/ space-between/ space-around/ space-evenly  */
+}
+.filho{
+    background-color: orange;
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    /*flex-grow: 1; estica as caixas filhas para que cubram o espaço restante*/
+    /*flex-shrink: 5;*/
+}

@@ -1,0 +1,38 @@
+.botao{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    width: 95px;
+    height: 30px;
+}
+#caixatotal{
+    background-color: antiquewhite;
+    width: 50%;
+    height: 400px;
+}
+h1{
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+table{
+    border-collapse:collapse;
+    width: 500px;
+}
+td{
+    border: 1px solid black;
+}
+th{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+#tabela{
+    display: flex;
+    align-items: center;
+    height: 250px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
